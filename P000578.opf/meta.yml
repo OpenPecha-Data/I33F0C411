@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20846
   title: བྱ་ཁྱུང་གདན་རབས
-  volume: ''
+  volume:
+    3e366a074cf243baa8f62bb87ff2c42a:
+      image_group_id: I1GS52249
+      title: Volume 1 of bya khyung gdan rabs
+      volume_number: 1
+      total_pages: 163
   author: ''
+ebook_metadata:
+  title: བྱ་ཁྱུང་གདན་རབས
+  author: ''
+  sku: P000578
+  cover: cover.jpg
+  layers:
+  - pagination
